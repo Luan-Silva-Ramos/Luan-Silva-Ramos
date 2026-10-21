@@ -6,6 +6,11 @@ Busco aprimorar minhas habilidades por meio de projetos acadêmicos, exercícios
 
 ## 💻 Tecnologias e áreas de interesse
 
+- **Java:** lógica de programação, orientação a objetos e estruturas de dados.
+- **Desenvolvimento de jogos:** criação de jogos com Unity, Godot e LibGDX.
+- **Desenvolvimento web:** estudos com HTML e tecnologias para aplicações web.
+- **Algoritmos:** ordenação, resolução de problemas e fundamentos da computação.
+
 ## 🛠️ Tecnologias
 
 <p align="left">
@@ -17,11 +22,6 @@ Busco aprimorar minhas habilidades por meio de projetos acadêmicos, exercícios
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub" />
 </p>
-
-- **Java:** lógica de programação, orientação a objetos e estruturas de dados.
-- **Desenvolvimento de jogos:** criação de jogos com Unity, Godot e LibGDX.
-- **Desenvolvimento web:** estudos com HTML e tecnologias para aplicações web.
-- **Algoritmos:** ordenação, resolução de problemas e fundamentos da computação.
 
 ## 🚀 Projetos em destaque
 
