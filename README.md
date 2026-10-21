@@ -6,6 +6,18 @@ Busco aprimorar minhas habilidades por meio de projetos acadêmicos, exercícios
 
 ## 💻 Tecnologias e áreas de interesse
 
+## 🛠️ Tecnologias
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40" height="40" alt="Unity" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="40" height="40" alt="Godot" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub" />
+</p>
+
 - **Java:** lógica de programação, orientação a objetos e estruturas de dados.
 - **Desenvolvimento de jogos:** criação de jogos com Unity, Godot e LibGDX.
 - **Desenvolvimento web:** estudos com HTML e tecnologias para aplicações web.
